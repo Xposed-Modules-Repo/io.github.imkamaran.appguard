@@ -4,6 +4,15 @@ Choose, app by app, what each app can see. AppGuard changes how selected privacy
 Android APIs behave inside the apps you pick. Target APKs are not modified, and nothing leaves
 your device.
 
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/imkamaran/AppGuard/main/docs/screenshots/home.png" width="220" alt="Home: protection status, coverage by category and privacy report"><br><sub>Home</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/imkamaran/AppGuard/main/docs/screenshots/apps.png" width="220" alt="App list with icons for each protected category"><br><sub>Apps</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/imkamaran/AppGuard/main/docs/screenshots/policy.png" width="220" alt="Per-app policy editor"><br><sub>Policy editor</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/imkamaran/AppGuard/main/docs/screenshots/policy_details.png" width="220" alt="Network section in Simulate mode"><br><sub>Network &amp; SIM</sub></td>
+  </tr>
+</table>
+
 ## What it controls
 
 | Data | Modes |
